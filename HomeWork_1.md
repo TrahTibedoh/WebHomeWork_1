@@ -1,6 +1,12 @@
 ## 1.  Сайт https://pet7.ru/ работает по протоколу HTTPS.
+---
 
-## 2.  Header ![Alt text](image.png)
-## 2.1 Content ![Alt text](image-1.png)
-## 2.2 Footer ![Alt text](image-2.png)
-    
+## 2.1  Header ![Alt text](image.png)
+## 2.2 Content ![Alt text](image-1.png)
+## 2.3 Footer ![Alt text](image-2.png)
+---
+## 3.1 Сайт до изменения![Alt text](<Снимок экрана 2023-11-15 082425.png>)
+## 3.2 Сайт после правки ![Alt text](<Снимок экрана 2023-11-15 211522.png>)
+---
+
+## 4. Прототип низкой детализации.![Alt text](<Снимок экрана 2023-11-15 214252.png>)
